@@ -1,0 +1,101 @@
+class Solution {
+public:
+
+
+
+// // first method
+//  int firstfn (vector<int>& nums, int target ){
+//     int low = 0 ; int high = nums.size() -1 ; 
+//     int mid ; int first = -1;
+//     while (low <= high){
+//         mid = (low + high) / 2 ; 
+//         if( nums[mid] == target){
+//             first = mid ;
+//             high =  mid -1;
+//         }else if (nums[mid] > target ){
+//             high = mid - 1 ; 
+//         }else{
+//             low = mid +1;
+//         }
+//     }
+//     return first ;
+//  }
+
+//  int lastfn (vector<int>& nums, int target ){
+//     int low = 0 ; int high = nums.size() -1 ; 
+//     int mid ; int last = -1;
+//     while (low <= high){
+//         mid = (low + high) / 2 ; 
+//         if( nums[mid] == target){
+//             last = mid ;
+//            low = mid +1;
+//         }else if (nums[mid] > target ){
+//             high = mid - 1 ; 
+//         }else{
+//             low = mid +1;
+//         }
+//     }
+//     return last ;
+//  }
+
+
+
+
+//     vector<int> searchRange(vector<int>& nums, int target) {
+//         int first = firstfn ( nums,  target );
+//         if (first == -1 ){
+//             return {-1 , -1};
+//         }
+//          int last = lastfn ( nums,  target );
+//          return  {first , last};
+
+        
+//     }
+
+//// second method
+
+int lowerbound (vector<int>& nums, int target) {
+     int low = 0 ; int high = nums.size() -1 ; 
+    int mid ; int lower = nums.size();
+    while (low <= high){
+        mid = (low + high) / 2 ; 
+       if (nums[mid] >= target ){
+        lower = mid ;
+            high = mid - 1 ; 
+        }else{
+            low = mid +1;
+        }
+    }
+    return lower ;
+
+}
+
+
+int upperbound (vector<int>& nums, int target) {
+     int low = 0 ; int high = nums.size() -1 ; 
+    int mid ; int upper = nums.size();
+    while (low <= high){
+        mid = (low + high) / 2 ; 
+       if (nums[mid] > target ){
+        upper = mid ;
+            high = mid - 1 ; 
+        }else{
+            low = mid +1;
+        }
+    }
+    return upper -1 ;
+
+}
+
+
+vector<int> searchRange(vector<int>& nums, int target) {
+int lower = lowerbound (nums, target) ;
+int upper = upperbound (nums, target) ;
+if ( lower == nums.size() || nums[lower] != target){
+    return {-1 , -1};
+}
+
+ return {lower , upper };
+}
+
+};
