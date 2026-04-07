@@ -1,0 +1,61 @@
+class Solution {
+public:
+    int singleNonDuplicate(vector<int>& nums) {
+        
+//         // solving it by using O(n) time complexity
+//         if (nums.size() == 1){ return nums[0];}
+//         else if (nums[0] != nums[1]){ return nums[0];}
+//         else if (nums[nums.size() -1] != nums[nums.size() -2] ){
+//             return nums[nums.size() -1];
+//         }
+//         int i = 1;
+//         while(i != nums.size() -2){
+//             if(nums[i] != nums[i-1] && nums[i] != nums[i+1]  ){
+//                 return nums[i];
+//             }
+//               i++;
+//         }
+//         return -1;
+
+
+
+    // time complexity O(log n)
+
+      // checking if size of array is 1
+            if (nums.size() == 1){ return nums[0];}
+
+          // check on first and last index 
+           else if (nums[0] != nums[1]){ return nums[0];}
+           else if(nums[nums.size() - 1] != nums[nums.size() - 2]){
+                return nums[nums.size() - 1];
+           }
+
+        // taking low = 1 and high = nums.size()-2 
+        // because we cant check taking mid on first and last index
+        int low = 1 ; int high = nums.size()-2;
+        int mid ; 
+        while(low <= high){
+            mid = (low + high)/2;
+        
+        // if nums[mid] is not equal to left or right returning that
+             if (nums[mid] != nums[mid -1] && nums[mid] != nums[mid+1]){
+                return nums[mid];
+            }
+         // on the left hand side of single element 
+        // the index of no. appearing twice is in oreder of (even ,odd)
+        //on the right hand side of single element 
+        // the index of no. appearing twice is in oreder of (odd ,even)
+            if((mid %2 == 1 && nums[mid -1] == nums[mid])||
+            (mid%2 == 0 && nums[mid + 1] == nums[mid])){
+                low = mid+1;
+            }else {
+                high = mid - 1;
+            }
+            
+        }
+        return -1;
+
+
+
+    }
+};
