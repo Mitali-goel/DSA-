@@ -1,0 +1,36 @@
+class Solution {
+public:
+    int minDays(vector<int>& bloomDay, int m, int k) {
+// if no. of flowers in total bouquet is greater that actual no of flowers 
+      if ((long long )m*k > bloomDay.size() ) {return -1 ;}  
+
+   int low = *min_element (bloomDay.begin() , bloomDay.end());
+   int high = *max_element (bloomDay.begin() , bloomDay.end());
+   int mid ; int ans = high ;
+    while (low <= high){
+        mid = (low + high )/2;
+   
+     // lets count no of bouquet possible with mid days 
+     int nob = 0 ; int count = 0 ;
+
+        for (int  i = 0 ; i < bloomDay.size() ; i++){
+         if(bloomDay[i] <= mid ){
+            count ++;
+         }else {
+         nob += count /k;
+         count = 0 ;
+         }
+        }
+        // we dont count the nob for last count value so 
+        nob += count /k;
+
+        if(nob >= m){
+            ans = mid ; 
+            high = mid - 1;
+        }else {
+            low = mid +1 ;
+        }
+    }
+    return ans ;
+ }
+};
