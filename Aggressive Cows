@@ -1,0 +1,36 @@
+class Solution {
+public:
+    bool canweplacecows(int k , int min_dis , vector<int> &nums){
+        int count = 1 ; int last = nums[0];
+        for (int i = 1 ; i < nums.size() ; i++){
+            if (nums[i] - last >= min_dis){
+                count ++ ; 
+                last = nums[i];
+            }
+            if (count >= k){
+                return true ;
+            }
+        }
+           return false ;
+    }
+
+
+
+    int aggressiveCows(vector<int> &nums, int k) {
+        sort (nums.begin() , nums.end());
+        int low = 0  ; int high = *max_element(nums.begin() , nums.end());
+        int mid ; int ans = 1 ; 
+        while (low <= high){
+             mid = (low + high)/2;
+            bool result = canweplacecows(k,mid,nums);
+
+            if(result){
+                ans = mid ;
+                low = mid + 1 ;
+            }else {
+                high = mid - 1;
+            }
+        }
+        return ans ;
+    }
+};
