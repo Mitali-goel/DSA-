@@ -1,0 +1,35 @@
+class Solution {
+public:
+
+        int subarray(vector<int>& nums , int mid){
+            int sub_array = 1 ; int min_sum = 0 ;
+            for (int i = 0 ; i< nums.size() ; i++){
+                if(min_sum + nums[i] <= mid){
+                    min_sum += nums[i];
+                }else {
+                    sub_array ++;
+                    min_sum = nums[i];
+                }
+            }
+            return sub_array ;
+        }
+
+    int splitArray(vector<int>& nums, int k) {
+        int low = *max_element(nums.begin() , nums.end());
+        int sum = 0 ; 
+        for (int i = 0 ; i<nums.size() ; i++){
+            sum += nums[i];
+        }
+        int high = sum ; int mid ; 
+        while(low <= high){
+            mid = (low + high)/2;
+            int result = subarray(nums , mid);
+            if  (result <= k){
+                high = mid - 1; 
+            }else {
+                low = mid +1;
+            }
+        }
+        return low ; 
+    }
+};
