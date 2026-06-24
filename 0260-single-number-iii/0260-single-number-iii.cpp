@@ -31,7 +31,9 @@ public:
     }
 
 // to find rightmost set bit (the index where both no hv diff bit)
-    XOR = (XOR & (XOR - 1)) ^ XOR ;
+    // XOR = (XOR & (XOR - 1)) ^ XOR ;
+    XOR = XOR & ~(XOR - 1);
+
 
 // taking two buckets 
     int buc1 = 0 ; // storing all the set bit at same index of XOR
