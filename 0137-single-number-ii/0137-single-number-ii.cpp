@@ -16,7 +16,7 @@ public:
 
 
 
-// second solution tc 
+// second solution tc = O(N * 32) ; sc = O(1)
   int ans = 0 ; 
    for (int j = 0 ; j < 32 ; j++){  
     int count = 0 ; 
@@ -36,15 +36,15 @@ public:
 // third solution   tc = O(nlogn) + O(n/3)  ; sc = O(1)
   // sorting the array and then traversing evry middle node of three consecutive number 
 
-    sort(nums.begin() , nums.end());
-     int n =  nums.size() ;
-    for (int i = 1 ; i <n ; i= i+3){
-        if (nums[i] != nums[i-1]){
-            return nums[i-1];
-        }
-    }
+    // sort(nums.begin() , nums.end());
+    //  int n =  nums.size() ;
+    // for (int i = 1 ; i <n ; i= i+3){
+    //     if (nums[i] != nums[i-1]){
+    //         return nums[i-1];
+    //     }
+    // }
  
-    return nums[n-1];
+    // return nums[n-1];
 
 
 
