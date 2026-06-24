@@ -23,16 +23,16 @@ public:
 //  BUCKET METHOD     TC = O(N)  ; SC = O(1)
 
 
-    int XOR = 0 ; 
+    long XOR = 0 ; 
 
     for(int i = 0 ; i < nums.size() ; i++){
         XOR = XOR ^ nums[i];
     }
 
 // to find rightmost set bit (the index where both no hv diff bit)
-    // XOR = (XOR & (XOR - 1)) ^ XOR ;
-  long long mask = (long long)XOR & -(long long)XOR;
-XOR = (int)mask;
+    XOR = (XOR & (XOR - 1)) ^ XOR ;
+//   long long mask = (long long)XOR & -(long long)XOR;
+//  XOR = (int)mask;
 
 
 
