@@ -17,19 +17,19 @@ public:
 
 
 // second solution tc = O(N * 32) ; sc = O(1)
-  int ans = 0 ; 
-   for (int j = 0 ; j < 32 ; j++){  
-    int count = 0 ; 
-     for (int i = 0 ; i < nums.size() ; i++ ){
-         if (nums[i] & (1<<j)) {
-            count ++; 
-        }
-     }
-         if (count % 3 == 1){
-           ans =  ans | (1<<j);
-        }
-   }
-   return ans ;    
+//   int ans = 0 ; 
+//    for (int j = 0 ; j < 32 ; j++){  
+//     int count = 0 ; 
+//      for (int i = 0 ; i < nums.size() ; i++ ){
+//          if (nums[i] & (1<<j)) {
+//             count ++; 
+//         }
+//      }
+//          if (count % 3 == 1){
+//            ans =  ans | (1<<j);
+//         }
+//    }
+//    return ans ;    
 
 
 
