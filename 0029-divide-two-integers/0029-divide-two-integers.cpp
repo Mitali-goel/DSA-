@@ -12,11 +12,6 @@ public:
         if ((dividend > 0 && divisor <0)|| (dividend < 0 && divisor > 0)){
             sign = false ; 
         }
- 
-    // int n = abs (dividend);
-    // int d = abs (divisor);
-
-
     long long n = abs((long long)dividend);
     long long d = abs((long long)divisor);
 
