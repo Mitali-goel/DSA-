@@ -22,7 +22,8 @@ public:
 
 //  BUCKET METHOD     TC = O(N)  ; SC = O(1)
 
-
+// taking long because let say if we hv arr [1,1,0,2 raised to power-31]
+// when we will do xor -1 the int cant store it 
     long XOR = 0 ; 
 
     for(int i = 0 ; i < nums.size() ; i++){
@@ -31,11 +32,8 @@ public:
 
 // to find rightmost set bit (the index where both no hv diff bit)
     XOR = (XOR & (XOR - 1)) ^ XOR ;
-//   long long mask = (long long)XOR & -(long long)XOR;
-//  XOR = (int)mask;
 
-
-
+// taking two buckets 
     int buc1 = 0 ; // storing all the set bit at same index of XOR
     int buc2 = 0 ; // storing all the unset bit at same index of XOR
 
