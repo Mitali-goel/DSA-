@@ -12,34 +12,10 @@ class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
 
+    // TC = O(2len)    
+    // SC = O(1)
 if (k == 0 ) return head ; 
 if (head == nullptr) return nullptr;
-
-
-//     ListNode * fast = head ; 
-//     ListNode * slow = head ; 
-//     while (k != 0 ){
-//         if (fast->next == nullptr){
-//             fast = head ;
-//         }else{
-//         fast = fast ->next ; 
-//         }
-//         k--;
-//     }
-//     while (fast->next != nullptr){
-//         fast = fast -> next ; 
-//         slow = slow -> next ; 
-//     }
-//     ListNode * newNode = slow->next ; 
-//     slow -> next = nullptr;
-//     fast->next = head ; 
-//     head = newNode;
-
-//     return head ;  
-
-
-
-
 
     ListNode * tail = head ; 
     int length = 1 ; 
