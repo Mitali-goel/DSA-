@@ -1,12 +1,13 @@
 class Solution {
 public:
     double angleClock(int hour, int minutes) {
-        double hrAngle  = 0 ; 
-        double minAngle = 0 ;
 
+        // just rember hr hand moves 30 deg every hr 
+        // min habd moves 6 deg every min 
+        // and hr hand moves 0.5 deg every min 
         hour = hour % 12;
-        hrAngle =  hour * 30 + minutes * 0.5;
-        minAngle = minutes * 6 ; 
+        double hrAngle =  hour * 30 + minutes * 0.5;
+        double minAngle = minutes * 6 ; 
 
         double angle = abs(minAngle - hrAngle);
 
