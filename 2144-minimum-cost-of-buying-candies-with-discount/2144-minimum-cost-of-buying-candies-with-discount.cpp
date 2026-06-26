@@ -14,5 +14,7 @@ public:
             }
         }
         return min_cost ; 
+
+        // another way we can use it to take toatl sum of all the values and delete val at inx 2,5,7..... 
     }
 };
