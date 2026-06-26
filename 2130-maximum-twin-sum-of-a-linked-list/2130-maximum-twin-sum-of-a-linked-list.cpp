@@ -11,6 +11,11 @@
 class Solution {
 public:
 
+
+// TC  = O(N/2)  to find middle + O(N/2) to reverse + O(N/2)  to find sum
+// SC = O(1)
+
+// reverse fn 
     ListNode* reverse (ListNode* head){
         ListNode * prev = nullptr;  
         ListNode * curr = head;  
@@ -27,19 +32,21 @@ public:
 
     int pairSum(ListNode* head) {
 
-        int max_sum = 0 ; 
+/// find middle      
         ListNode * fast = head ; 
         ListNode * slow = head ; 
         while (fast != nullptr && fast->next != nullptr){
             fast = fast->next->next ; 
             slow = slow -> next ; 
         }
-      
+
+// call reverse fn 
         ListNode * headReverse =   reverse(slow); 
 
         ListNode * temp1 = head ; 
         ListNode * temp2 = headReverse; 
 
+// find max_sum 
         int max = 0;
 
         while (temp1 != nullptr && temp2 != nullptr){
