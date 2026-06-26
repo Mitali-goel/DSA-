@@ -1,6 +1,9 @@
 class Solution {
 public:
     int maxScore(vector<int>& cardPoints, int k) {
+
+        // TC = O(k) + O(k) 
+        // SC = O(1)
         int lsum = 0 ; int rsum = 0 ; 
         for(int i = 0 ; i < k ; i++){
             lsum += cardPoints[i] ;
