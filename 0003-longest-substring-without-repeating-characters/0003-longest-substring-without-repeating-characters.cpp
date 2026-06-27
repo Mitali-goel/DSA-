@@ -46,8 +46,7 @@ public:
     int l = 0 ; 
     int r = 0 ; 
     int max_len = 0 ; 
-    int hash[256]  ;
-    memset(hash, -1, sizeof(hash));
+    vector <int> hash (256,-1);
     for (r = 0 ; r < s.size() ; r++){
         if (hash[s[r]] != -1 && hash[s[r]] >= l) { 
           l = hash[s[r]] + 1;
