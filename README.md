@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Mitali-goel/DSA-/tree/master/0055-jump-game) |
 | [0137-single-number-ii](https://github.com/Mitali-goel/DSA-/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Mitali-goel/DSA-/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/Mitali-goel/DSA-/tree/master/0455-assign-cookies) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Mitali-goel/DSA-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Mitali-goel/DSA-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Mitali-goel/DSA-/tree/master/0860-lemonade-change) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mitali-goel/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Mitali-goel/DSA-/tree/master/1004-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Mitali-goel/DSA-/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
