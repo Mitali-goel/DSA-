@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Mitali-goel/DSA-/tree/master/0009-palindrome-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mitali-goel/DSA-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/1486-xor-operation-in-an-array) |
 ## Linked List
