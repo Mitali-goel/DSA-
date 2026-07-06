@@ -17,7 +17,7 @@ public:
     int maxSum = 0 ; int bestLeft = 0 ; 
         for (int j = k ; j <nums.size() ; j++){ 
             bestLeft = max (bestLeft , nums[j-k]);
-            maxSum = max(maxSum , nums[j] + nums[j-k]);
+            // maxSum = max(maxSum , nums[j] + nums[j-k]);
             maxSum = max(maxSum , bestLeft + nums[j]);
         }
         return maxSum ; 
