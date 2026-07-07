@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mitali-goel/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/Mitali-goel/DSA-/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mitali-goel/DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1470-shuffle-the-array](https://github.com/Mitali-goel/DSA-/tree/master/1470-shuffle-the-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitali-goel/DSA-/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/Mitali-goel/DSA-/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mitali-goel/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
