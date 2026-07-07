@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Mitali-goel/DSA-/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/Mitali-goel/DSA-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mitali-goel/DSA-/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Mitali-goel/DSA-/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/Mitali-goel/DSA-/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Mitali-goel/DSA-/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mitali-goel/DSA-/tree/master/1004-max-consecutive-ones-iii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Mitali-goel/DSA-/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Mitali-goel/DSA-/tree/master/0260-single-number-iii) |
+| [0645-set-mismatch](https://github.com/Mitali-goel/DSA-/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/1486-xor-operation-in-an-array) |
 ## Math
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mitali-goel/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mitali-goel/DSA-/tree/master/0013-roman-to-integer) |
+| [0645-set-mismatch](https://github.com/Mitali-goel/DSA-/tree/master/0645-set-mismatch) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Mitali-goel/DSA-/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/Mitali-goel/DSA-/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/Mitali-goel/DSA-/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Mitali-goel/DSA-/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Mitali-goel/DSA-/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitali-goel/DSA-/tree/master/1833-maximum-ice-cream-bars) |
