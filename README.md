@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Mitali-goel/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mitali-goel/DSA-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Mitali-goel/DSA-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Mitali-goel/DSA-/tree/master/0050-powx-n) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mitali-goel/DSA-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/1486-xor-operation-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mitali-goel/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Mitali-goel/DSA-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Mitali-goel/DSA-/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mitali-goel/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Mitali-goel/DSA-/tree/master/0013-roman-to-integer) |
 ## Greedy
 |  |
 | ------- |
