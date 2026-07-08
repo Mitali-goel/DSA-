@@ -1,7 +1,10 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
-        int n = nums.size();    
+        int n = nums.size(); 
+
+// PREFIX SUM      TC = O(n) + O(n)       SC = O(n) + O(n)  
+
         // vector<int> prefix (n) ; 
         // vector<int> suffix (n) ;  
 
@@ -16,6 +19,9 @@ public:
         //     }
         // }     
         // return -1 ;
+
+
+// OPTIMIZED SOL     TC = O(n) + O(n)       SC = O(1)
 
         int sum = 0 ; 
         for(int i = 0 ; i < n ; i++){
