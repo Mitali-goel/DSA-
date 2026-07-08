@@ -1,19 +1,8 @@
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
-    //     vector<int>result ;
-    //     for (int j = 1 ; j <= nums.size() ; j++){
-    //     int count = 0 ;
-    //    for (int i = 0 ; i < nums.size() ; i++){
-    //     if (j == nums[i]){
-    //         count++;
-    //     }
-    //    } if (count == 0){
-        
-    //     result.push_back(j);
-    //    }
-    //    }
-    //    return result ;
+
+// HASH TABLE  TC = O(n)    SC = O(n)        
 
     vector <int> hash(nums.size() , 0);
     for (int i = 0 ; i< nums.size() ; i++){
@@ -28,5 +17,5 @@ public:
     }
 
         return missing ;
-    }
+     }
 };
