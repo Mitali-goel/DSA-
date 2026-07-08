@@ -2,6 +2,9 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
          int n = nums.size();
+
+// PREFIX SUM        TC = O(N)        SC = O(n) + O(n)     
+
         // vector<int> prefix (n , 1);
         // vector<int> suffix (n , 1);
        
@@ -16,6 +19,8 @@ public:
 
         // return result ; 
 
+
+// OPTIMIZED SOLUTION      TC = O(N)        SC = O(1)
         vector<int> result(n , 1) ; 
         for(int i = 1 ; i <n ; i++){
            result[i] = result[i] * result[i-1] * nums[i-1];
