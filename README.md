@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mitali-goel/DSA-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mitali-goel/DSA-/tree/master/0148-sort-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mitali-goel/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Mitali-goel/DSA-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Mitali-goel/DSA-/tree/master/0455-assign-cookies) |
 | [1768-merge-strings-alternately](https://github.com/Mitali-goel/DSA-/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mitali-goel/DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mitali-goel/DSA-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Mitali-goel/DSA-/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mitali-goel/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Mitali-goel/DSA-/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Mitali-goel/DSA-/tree/master/1768-merge-strings-alternately) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mitali-goel/DSA-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Mitali-goel/DSA-/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/Mitali-goel/DSA-/tree/master/0392-is-subsequence) |
 ## Counting Sort
 |  |
 | ------- |
