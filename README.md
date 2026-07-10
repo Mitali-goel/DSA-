@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Mitali-goel/DSA-/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Mitali-goel/DSA-/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/Mitali-goel/DSA-/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/Mitali-goel/DSA-/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mitali-goel/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Mitali-goel/DSA-/tree/master/0238-product-of-array-except-self) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Mitali-goel/DSA-/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Mitali-goel/DSA-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mitali-goel/DSA-/tree/master/0148-sort-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mitali-goel/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Mitali-goel/DSA-/tree/master/0455-assign-cookies) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Mitali-goel/DSA-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mitali-goel/DSA-/tree/master/0148-sort-list) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Mitali-goel/DSA-/tree/master/0455-assign-cookies) |
