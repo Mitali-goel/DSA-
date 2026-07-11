@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mitali-goel/DSA-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Mitali-goel/DSA-/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Mitali-goel/DSA-/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Mitali-goel/DSA-/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Mitali-goel/DSA-/tree/master/0088-merge-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mitali-goel/DSA-/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Mitali-goel/DSA-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Mitali-goel/DSA-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mitali-goel/DSA-/tree/master/0148-sort-list) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mitali-goel/DSA-/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Mitali-goel/DSA-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Mitali-goel/DSA-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Mitali-goel/DSA-/tree/master/0605-can-place-flowers) |
