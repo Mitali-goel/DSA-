@@ -1,6 +1,9 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
+
+// BRUTTE FORCE      TC = O(N2)     SC = O(1)
+
         // int maxFruit = 0 ; 
         // for (int i = 0 ; i < fruits.size() ; i++){
         //     int basket1 = -1 ; 
@@ -21,8 +24,10 @@ public:
 
 
 
+//MY OPTIMIZED SOLUTION          TC = O(n)      SC = O(1)
 
 
+ 
     // int l = 0 ; int r = 0 ; int maxFruits = 0 ; 
     // int basket1 = -1 ; int basket2 = -1 ; 
     // int prev1 = -1 ; int prev2 = -1 ; 
@@ -54,6 +59,8 @@ public:
     // return maxFruits ;
 
 
+
+ // PATTERN - VISE  OPTIMIZED SOLUTION          TC = O(n)      SC = O(1)
 
     int l = 0 ; int r = 0 ; int maxFruits = 0 ;
     map<int , int> mpp ; 
