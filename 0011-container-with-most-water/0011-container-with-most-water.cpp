@@ -1,14 +1,8 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int maxarea = 0;
-        // for (int i =0 ; i < height.size(); i++){
-        //     for (int j =i+1 ; j < height.size() ; j++){
-        //        maxarea  = max(maxarea, (j-i)* min(height[i] , height[j]));
-        //     }
-        // }
-
-
+        // TWO POINTER 
+    int maxarea = 0;
     int i = 0 ; int j = height.size()-1;
     int minheight = 0 ; 
 
