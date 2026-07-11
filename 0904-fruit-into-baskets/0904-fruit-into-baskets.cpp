@@ -19,33 +19,56 @@ public:
         // }
         // return  maxFruit ;
 
-    int l = 0 ; int r = 0 ; int maxFruits = 0 ; 
-    int basket1 = -1 ; int basket2 = -1 ; 
-    int prev1 = -1 ; int prev2 = -1 ; 
-    while (r < fruits.size()){
 
-        if (fruits[r] != basket2 && basket1 == -1){
-            basket1 = fruits[r];
-        }else if (fruits[r] != basket1 && basket2 == -1){
-            basket2 = fruits[r];
-        }if (fruits[r] == basket1){
-            prev1 = r ; 
-        }if (fruits[r] == basket2){
-            prev2 = r ; 
-        }
-        if (basket1 != fruits [r] && basket2 != fruits [r] ){
-            if (fruits[r-1] == basket2){
-                l = prev1 +1 ; 
-                basket1 = fruits [r] ;
-                prev1 = r ; 
-            }else {
-                l = prev2+1 ; 
-                basket2 = fruits [r] ;
-                prev2 = r ; 
+
+
+
+    // int l = 0 ; int r = 0 ; int maxFruits = 0 ; 
+    // int basket1 = -1 ; int basket2 = -1 ; 
+    // int prev1 = -1 ; int prev2 = -1 ; 
+    // while (r < fruits.size()){
+
+    //     if (fruits[r] != basket2 && basket1 == -1){
+    //         basket1 = fruits[r];
+    //     }else if (fruits[r] != basket1 && basket2 == -1){
+    //         basket2 = fruits[r];
+    //     }if (fruits[r] == basket1){
+    //         prev1 = r ; 
+    //     }if (fruits[r] == basket2){
+    //         prev2 = r ; 
+    //     }
+    //     if (basket1 != fruits [r] && basket2 != fruits [r] ){
+    //         if (fruits[r-1] == basket2){
+    //             l = prev1 +1 ; 
+    //             basket1 = fruits [r] ;
+    //             prev1 = r ; 
+    //         }else {
+    //             l = prev2+1 ; 
+    //             basket2 = fruits [r] ;
+    //             prev2 = r ; 
+    //         }
+    //     }
+    //     maxFruits = max (maxFruits , r-l+1);
+    //     r++;
+    // }
+    // return maxFruits ;
+
+
+
+    int l = 0 ; int r = 0 ; int maxFruits = 0 ;
+    map<int , int> mpp ; 
+    while(r<fruits.size()){
+        mpp[fruits[r]]++;
+        if (mpp.size() > 2){
+            mpp[fruits[l]]-- ;
+            if (mpp[fruits[l]] == 0){
+                mpp.erase(fruits[l]);
             }
+            l++;
+        }else {
+            maxFruits = max (maxFruits , r-l+1);
         }
-        maxFruits = max (maxFruits , r-l+1);
-        r++;
+        r++ ; 
     }
     return maxFruits ;
     }
