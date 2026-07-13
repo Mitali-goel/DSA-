@@ -1,6 +1,8 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
+
+// TC  = O(n) +( O(max len) to traverse map)       SC = O(no of character)= O(1)
     
     // int l = 0 ; int r = 0 ; 
     // map <char , int> mpp ; 
@@ -29,7 +31,7 @@ public:
 
 
 
-
+// OPTIMIZED       TC  = O(n)       SC = O(1)
 
     int l = 0 ; int r = 0 ; 
     int maxFreq = 0 ; int maxlen = 0 ;
@@ -47,10 +49,6 @@ public:
         r++;
     }
     return maxlen;
-
-
-
-
 
 
     }
