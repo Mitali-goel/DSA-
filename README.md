@@ -209,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Mitali-goel/DSA-/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Mitali-goel/DSA-/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
