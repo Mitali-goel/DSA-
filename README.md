@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mitali-goel/DSA-/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Mitali-goel/DSA-/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Mitali-goel/DSA-/tree/master/0260-single-number-iii) |
 | [0645-set-mismatch](https://github.com/Mitali-goel/DSA-/tree/master/0645-set-mismatch) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mitali-goel/DSA-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mitali-goel/DSA-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Mitali-goel/DSA-/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Mitali-goel/DSA-/tree/master/0067-add-binary) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mitali-goel/DSA-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/Mitali-goel/DSA-/tree/master/1922-count-good-numbers) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mitali-goel/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mitali-goel/DSA-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Mitali-goel/DSA-/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Mitali-goel/DSA-/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mitali-goel/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mitali-goel/DSA-/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mitali-goel/DSA-/tree/master/0424-longest-repeating-character-replacement) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mitali-goel/DSA-/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Mitali-goel/DSA-/tree/master/1929-concatenation-of-array) |
 ## Interactive
 |  |
