@@ -54,7 +54,7 @@ public:
             }else if (carry == 1 && b[j] == '0'){
                 carry = 0 ; 
                 result.push_back('1');
-            }else if (carry == 1 && b[j] == '1'){
+            }else if (carry == 1 && b[i] == '1'){
                 result.push_back('0');
             }
             j++;
