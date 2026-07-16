@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Mitali-goel/DSA-/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Mitali-goel/DSA-/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Mitali-goel/DSA-/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Mitali-goel/DSA-/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Mitali-goel/DSA-/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/1486-xor-operation-in-an-array) |
 ## Math
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mitali-goel/DSA-/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Mitali-goel/DSA-/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mitali-goel/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Mitali-goel/DSA-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Mitali-goel/DSA-/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mitali-goel/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mitali-goel/DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mitali-goel/DSA-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mitali-goel/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mitali-goel/DSA-/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/Mitali-goel/DSA-/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mitali-goel/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mitali-goel/DSA-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mitali-goel/DSA-/tree/master/0148-sort-list) |
+| [0389-find-the-difference](https://github.com/Mitali-goel/DSA-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Mitali-goel/DSA-/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Mitali-goel/DSA-/tree/master/0645-set-mismatch) |
