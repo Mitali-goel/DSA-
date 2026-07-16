@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Mitali-goel/DSA-/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Mitali-goel/DSA-/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Mitali-goel/DSA-/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/Mitali-goel/DSA-/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Mitali-goel/DSA-/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/1486-xor-operation-in-an-array) |
 ## Math
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Mitali-goel/DSA-/tree/master/0055-jump-game) |
+| [0338-counting-bits](https://github.com/Mitali-goel/DSA-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mitali-goel/DSA-/tree/master/0392-is-subsequence) |
 ## Counting Sort
 |  |
