@@ -2,14 +2,14 @@ class Solution {
 public:
 
     // string deci2bin(int n ){
-    // //     string s ; 
-    // //     while (n!=0){
-    // //         s.push_back(n%2);
-    // //         n = n/2;
-    // //     }
-    // //     reverse(s.begin(), s.end());
-    // //     return s ;
-    // // }
+    //     string s ; 
+    //     while (n!=0){
+    //         s.push_back(n%2);
+    //         n = n/2;
+    //     }
+    //     reverse(s.begin(), s.end());
+    //     return s ;
+    // }
 
 
 
@@ -26,12 +26,21 @@ public:
 
 
 
+    // int count = 0 ; 
+    // while (n!=0){
+    //     if (n & 1 != 0){
+    //         count++ ;  
+    //     }
+    //     n = n>>1 ;
+    // }
+    // return count ;
+
+
     int count = 0 ; 
-    while (n!=0){
-        if (n%2 != 0){
-            count++ ;  
-        }
-        n = n>>1 ;
+    while (n != 0){
+        count++ ; 
+
+        n = n & n-1 ;
     }
     return count ;
     }
