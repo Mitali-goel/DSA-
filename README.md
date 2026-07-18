@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mitali-goel/DSA-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mitali-goel/DSA-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mitali-goel/DSA-/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mitali-goel/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Mitali-goel/DSA-/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Mitali-goel/DSA-/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Mitali-goel/DSA-/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mitali-goel/DSA-/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mitali-goel/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Mitali-goel/DSA-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Mitali-goel/DSA-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mitali-goel/DSA-/tree/master/0148-sort-list) |
