@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mitali-goel/DSA-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mitali-goel/DSA-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Mitali-goel/DSA-/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Mitali-goel/DSA-/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Mitali-goel/DSA-/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Mitali-goel/DSA-/tree/master/0088-merge-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mitali-goel/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mitali-goel/DSA-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Mitali-goel/DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mitali-goel/DSA-/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Mitali-goel/DSA-/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mitali-goel/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mitali-goel/DSA-/tree/master/3312-sorted-gcd-pair-queries) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mitali-goel/DSA-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
