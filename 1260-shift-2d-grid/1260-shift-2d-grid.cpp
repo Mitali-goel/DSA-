@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
+//BRUTTE FORCE     TC = O(m*n* k%(m*n))            SC = O(n)
+
 
     //     k = k % (grid.size() * grid[0].size());
     //    vector<vector<int>> gridk = grid ;
@@ -22,6 +24,13 @@ public:
     //     return gridk;
 
 
+
+
+// OPTIMAL SOLUTION          TC = O(M*N)             SC  =O(N) 
+// the intution behind this is circular array 
+// we are using the concept of wraping back thats why using modulus 
+
+
     int index = 0 ; 
     int m = grid.size();
     int n = grid[0].size();
@@ -30,7 +39,7 @@ public:
 
     for(int i = 0 ; i < grid.size() ; i++){
         for(int j = 0 ; j < grid[i].size() ; j++){
-            index = ((i*n)+j+k) % (m*n) ;
+            index = ((i*n)+j +k) % (m*n) ;
             result[index/n][index%n] = grid[i][j];
         }
     }
