@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
 
+        k = k % (grid.size() * grid[0].size());
        vector<vector<int>> gridk = grid ;
         while (k != 0){
            grid = gridk ;
