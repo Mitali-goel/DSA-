@@ -1,16 +1,31 @@
 class Solution {
 public:
     long long m = 1000000007;
-    long long power (long long a , long long b ){
-        if (b == 0){
-            return 1 ;
+    // long long power (long long a , long long b ){
+    //     if (b == 0){
+    //         return 1 ;
+    //     }
+    //     long long ans = power(a , b/2) % m ;
+    //     long long result = ans * ans % m ;
+    //     if (b % 2 == 1){
+    //         result = result * a % m ;
+    //     }
+    //     return result ;
+    // }
+
+
+    long long power(long long a , long long b){
+
+        long long ans = 1;
+        while(b > 0){
+            if (b % 2 == 1){
+                ans = ans * a % m;  
+                b -- ;
+            }
+            a = a*a  % m;
+            b /= 2 ;
         }
-        long long ans = power(a , b/2) % m ;
-        long long result = ans * ans % m ;
-        if (b % 2 == 1){
-            result = result * a % m ;
-        }
-        return result ;
+        return ans ;
     }
 
     int countVisiblePeople(int n, int pos, int k) {
