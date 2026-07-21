@@ -15,7 +15,7 @@ public:
 
     int countVisiblePeople(int n, int pos, int k) {
 
-        if (k > n/2){
+        if (k > (n-1)/2){
             k = n-1- k ;
         }
 
