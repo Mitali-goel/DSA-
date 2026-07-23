@@ -1,25 +1,5 @@
 class Solution {
 public:
-
-
-    long long power(long long a  , long long b ){
-        if (b == 0){
-            return 1 ;
-        }
-        long long ans = 1 ;
-        while(b!=0){
-            if (b % 2 != 0){
-                ans  = ans * a; 
-            }
-            a = a*a ;
-            b = b/2;
-        }
-
-        return ans ;
-    }
-
-
-
     int uniqueXorTriplets(vector<int>& nums) {
 
 // BRUTTE FORCE           TC = O(n3)(time limit exceeeds)       
@@ -42,6 +22,7 @@ public:
 
 
 // optimal solution          TC = O(long n)
+// intution behind is xor values does not depenf on index just the no. of bits 
 
     int n = nums.size();
 
@@ -53,8 +34,6 @@ public:
         count ++;
         p = p <<1;
     }
-
-    // int p = power (2 , count);
     return p ;
     }
 };
