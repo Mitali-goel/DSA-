@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mitali-goel/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mitali-goel/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2562-find-the-array-concatenation-value](https://github.com/Mitali-goel/DSA-/tree/master/2562-find-the-array-concatenation-value) |
+| [2906-construct-product-matrix](https://github.com/Mitali-goel/DSA-/tree/master/2906-construct-product-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mitali-goel/DSA-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mitali-goel/DSA-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mitali-goel/DSA-/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mitali-goel/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mitali-goel/DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2485-find-the-pivot-integer](https://github.com/Mitali-goel/DSA-/tree/master/2485-find-the-pivot-integer) |
+| [2906-construct-product-matrix](https://github.com/Mitali-goel/DSA-/tree/master/2906-construct-product-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mitali-goel/DSA-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mitali-goel/DSA-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -292,4 +294,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Mitali-goel/DSA-/tree/master/1260-shift-2d-grid) |
+| [2906-construct-product-matrix](https://github.com/Mitali-goel/DSA-/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
