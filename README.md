@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Mitali-goel/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Mitali-goel/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Mitali-goel/DSA-/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mitali-goel/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mitali-goel/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Mitali-goel/DSA-/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Mitali-goel/DSA-/tree/master/0724-find-pivot-index) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mitali-goel/DSA-/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Mitali-goel/DSA-/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/Mitali-goel/DSA-/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mitali-goel/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mitali-goel/DSA-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/Mitali-goel/DSA-/tree/master/1922-count-good-numbers) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mitali-goel/DSA-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Mitali-goel/DSA-/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mitali-goel/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mitali-goel/DSA-/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Mitali-goel/DSA-/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Mitali-goel/DSA-/tree/master/1288-remove-covered-intervals) |
