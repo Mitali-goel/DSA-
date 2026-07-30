@@ -9,15 +9,23 @@ public:
         // return count ; 
 
 
+        // int n = word.size();
+        // int count = 0 ; 
+        // int i = 1  ;
+        // while(n > 0){ 
+        //     if (n >= 8)     count += i * 8 ;
+        //     else            count += i * n ;
+        //     n = n-8 ;
+        //     i++ ; 
+        // }
+        // return count ; 
+
+
         int n = word.size();
-        int count = 0 ; 
-        int i = 1  ;
-        while(n > 0){ 
-            if (n >= 8)     count += i * 8 ;
-            else            count += i * n ;
-            n = n-8 ;
-            i++ ; 
-        }
-        return count ; 
+        int a = n/8;
+        int r = n % 8 ;
+
+        return 8 * (a * (a+1) / 2)  + r * (a+1);
+
     }
 };
