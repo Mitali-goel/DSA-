@@ -12,7 +12,7 @@ public:
         int n = word.size();
         int count = 0 ; 
         int i = 1  ;
-        while(n >= 0){ 
+        while(n > 0){ 
             if (n >= 8)     count += i * 8 ;
             else            count += i * n ;
             n = n-8 ;
