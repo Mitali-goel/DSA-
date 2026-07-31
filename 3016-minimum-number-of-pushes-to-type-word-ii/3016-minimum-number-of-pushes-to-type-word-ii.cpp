@@ -22,9 +22,7 @@ public:
         int add = 1 ; 
         for(int i = 0 ; i < n ; i++){
             add = i / 8 + 1 ; 
-            for(int j = 0 ; j < count[i] ; j++){
-                cnt += add ; 
-            }
+            cnt = cnt + count[i] * add ;
         }
         return cnt ; 
     }
