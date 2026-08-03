@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Mitali-goel/DSA-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mitali-goel/DSA-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mitali-goel/DSA-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mitali-goel/DSA-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mitali-goel/DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mitali-goel/DSA-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mitali-goel/DSA-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mitali-goel/DSA-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mitali-goel/DSA-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Greedy
 |  |
 | ------- |
