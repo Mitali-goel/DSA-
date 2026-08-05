@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Mitali-goel/DSA-/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mitali-goel/DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mitali-goel/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mitali-goel/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mitali-goel/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2562-find-the-array-concatenation-value](https://github.com/Mitali-goel/DSA-/tree/master/2562-find-the-array-concatenation-value) |
 | [2906-construct-product-matrix](https://github.com/Mitali-goel/DSA-/tree/master/2906-construct-product-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/Mitali-goel/DSA-/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mitali-goel/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mitali-goel/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2485-find-the-pivot-integer](https://github.com/Mitali-goel/DSA-/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mitali-goel/DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/Mitali-goel/DSA-/tree/master/3021-alice-and-bob-playing-flower-game) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mitali-goel/DSA-/tree/master/0455-assign-cookies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mitali-goel/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Mitali-goel/DSA-/tree/master/1768-merge-strings-alternately) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mitali-goel/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mitali-goel/DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2562-find-the-array-concatenation-value](https://github.com/Mitali-goel/DSA-/tree/master/2562-find-the-array-concatenation-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mitali-goel/DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mitali-goel/DSA-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mitali-goel/DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mitali-goel/DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mitali-goel/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Mitali-goel/DSA-/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/Mitali-goel/DSA-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mitali-goel/DSA-/tree/master/0392-is-subsequence) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mitali-goel/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Counting Sort
 |  |
 | ------- |
