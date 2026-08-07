@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Mitali-goel/DSA-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mitali-goel/DSA-/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mitali-goel/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1390-four-divisors](https://github.com/Mitali-goel/DSA-/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mitali-goel/DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mitali-goel/DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Mitali-goel/DSA-/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mitali-goel/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mitali-goel/DSA-/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1390-four-divisors](https://github.com/Mitali-goel/DSA-/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/Mitali-goel/DSA-/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/Mitali-goel/DSA-/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mitali-goel/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -333,4 +335,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mitali-goel/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Mitali-goel/DSA-/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Mitali-goel/DSA-/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
