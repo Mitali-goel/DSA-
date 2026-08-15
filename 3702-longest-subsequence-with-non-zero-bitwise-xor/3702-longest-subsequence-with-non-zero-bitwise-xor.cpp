@@ -8,7 +8,7 @@ public:
         if (XOR  != 0 )   return nums.size();
         else {
             for (int i = 0 ; i < nums.size() ; i++){
-                if (XOR ^ nums[i]  != 0){
+                if (nums[i]  != 0){
                     return nums.size()-1 ;
                 }
             }
