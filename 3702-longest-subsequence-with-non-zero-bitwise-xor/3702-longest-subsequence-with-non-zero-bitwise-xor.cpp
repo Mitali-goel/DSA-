@@ -8,11 +8,8 @@ public:
         if (XOR  != 0 )   return nums.size();
         else {
             for (int i = 0 ; i < nums.size() ; i++){
-                XOR  = XOR ^ nums[i];
-                if (XOR  != 0){
+                if (XOR ^ nums[i]  != 0){
                     return nums.size()-1 ;
-                }else {
-                    XOR  = XOR  ^ nums[i];
                 }
             }
         }
