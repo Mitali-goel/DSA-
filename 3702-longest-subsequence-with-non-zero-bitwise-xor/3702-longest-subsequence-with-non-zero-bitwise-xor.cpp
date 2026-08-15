@@ -8,6 +8,7 @@ public:
         if (XOR  != 0 )   return nums.size();
         else {
             for (int i = 0 ; i < nums.size() ; i++){
+                // we can check if nums[i] != 0 as when we xor ^ nums[i] = 0 ^ nums[i] == nums[i] thats the intution as xor of total is 0
                 if (nums[i]  != 0){
                     return nums.size()-1 ;
                 }
