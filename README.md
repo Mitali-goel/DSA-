@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mitali-goel/DSA-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Mitali-goel/DSA-/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Mitali-goel/DSA-/tree/master/0067-add-binary) |
+| [0292-nim-game](https://github.com/Mitali-goel/DSA-/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Mitali-goel/DSA-/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mitali-goel/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mitali-goel/DSA-/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -381,4 +382,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mitali-goel/DSA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mitali-goel/DSA-/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mitali-goel/DSA-/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mitali-goel/DSA-/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mitali-goel/DSA-/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mitali-goel/DSA-/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
