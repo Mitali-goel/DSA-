@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Mitali-goel/DSA-/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mitali-goel/DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mitali-goel/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mitali-goel/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mitali-goel/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mitali-goel/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2562-find-the-array-concatenation-value](https://github.com/Mitali-goel/DSA-/tree/master/2562-find-the-array-concatenation-value) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Mitali-goel/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitali-goel/DSA-/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mitali-goel/DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mitali-goel/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mitali-goel/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mitali-goel/DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mitali-goel/DSA-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
