@@ -17,16 +17,6 @@ public:
                 if(prefix[i] == 0){
                     return false ;
                 }
-                // int cnt = 0 ;
-                // for(int j = 0 ; j < nums.size() ; j++){
-                //     if (nums[j] < nums[i]  && nums[j] % 2 != 0){
-                //         cnt ++ ; 
-                //         break ;
-                //     }
-                // }
-                // if (cnt == 0){
-                //     return 0 ;
-                // }
             }
         }
         return true ;
