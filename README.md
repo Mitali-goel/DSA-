@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mitali-goel/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mitali-goel/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mitali-goel/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Mitali-goel/DSA-/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mitali-goel/DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2562-find-the-array-concatenation-value](https://github.com/Mitali-goel/DSA-/tree/master/2562-find-the-array-concatenation-value) |
 | [2906-construct-product-matrix](https://github.com/Mitali-goel/DSA-/tree/master/2906-construct-product-matrix) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Mitali-goel/DSA-/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/Mitali-goel/DSA-/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mitali-goel/DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Mitali-goel/DSA-/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mitali-goel/DSA-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mitali-goel/DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mitali-goel/DSA-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
