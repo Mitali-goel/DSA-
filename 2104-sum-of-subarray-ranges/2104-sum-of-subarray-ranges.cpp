@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long subArrayRanges(vector<int>& nums) {
-    // time complexity = O(n2)    
+    // time complexity = O(n2)    space complexity O(1)
         // long long sum = 0 ;
         // for (int i = 0 ; i < nums.size() ; i++){
         //     int minel = nums[i] ; int maxel = nums[i];
@@ -14,7 +14,7 @@ public:
         // return sum ; 
 
 
-// time complexity = O(n)
+// time complexity = O(n)     space complexity O(n)
         long long maxsum = 0 ; long long minsum = 0 ;
         int n = nums.size() ; 
 
