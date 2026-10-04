@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mitali-goel/DSA-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mitali-goel/DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Mitali-goel/DSA-/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Mitali-goel/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mitali-goel/DSA-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mitali-goel/DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mitali-goel/DSA-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Mitali-goel/DSA-/tree/master/1544-make-the-string-great) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mitali-goel/DSA-/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mitali-goel/DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/Mitali-goel/DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Mitali-goel/DSA-/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Mitali-goel/DSA-/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Mitali-goel/DSA-/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Mitali-goel/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/Mitali-goel/DSA-/tree/master/2562-find-the-array-concatenation-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mitali-goel/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mitali-goel/DSA-/tree/master/3498-reverse-degree-of-a-string) |
