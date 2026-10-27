@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mitali-goel/DSA-/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mitali-goel/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [1544-make-the-string-great](https://github.com/Mitali-goel/DSA-/tree/master/1544-make-the-string-great) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mitali-goel/DSA-/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mitali-goel/DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -444,4 +445,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/Mitali-goel/DSA-/tree/master/2104-sum-of-subarray-ranges) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mitali-goel/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mitali-goel/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mitali-goel/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
